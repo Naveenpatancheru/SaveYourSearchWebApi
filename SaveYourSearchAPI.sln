@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaveYourSearchAPI", "SaveYourSearchAPI\SaveYourSearchAPI.csproj", "{58625FE3-23A3-4B2F-B03F-FBCDE68D01EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingWebSearch", "BingWebSearch\BingWebSearch.csproj", "{FFA78A1E-B790-4A5E-85F1-76D35F085403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58625FE3-23A3-4B2F-B03F-FBCDE68D01EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58625FE3-23A3-4B2F-B03F-FBCDE68D01EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58625FE3-23A3-4B2F-B03F-FBCDE68D01EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58625FE3-23A3-4B2F-B03F-FBCDE68D01EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA78A1E-B790-4A5E-85F1-76D35F085403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA78A1E-B790-4A5E-85F1-76D35F085403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA78A1E-B790-4A5E-85F1-76D35F085403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA78A1E-B790-4A5E-85F1-76D35F085403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66598626-B823-4A3E-9F2E-D1486EBB785E}
+	EndGlobalSection
+EndGlobal
