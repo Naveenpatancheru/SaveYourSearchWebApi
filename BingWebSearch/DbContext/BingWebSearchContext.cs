@@ -12,6 +12,7 @@ namespace BingWebSearch
     {
         public BingWebSearchContext(DbContextOptions<BingWebSearchContext> options) : base(options) { }
         public DbSet<value>  SaveUrlInfo{ get; set; }
+        public DbSet<Note> Note { get; set; }
 
     }
 }
